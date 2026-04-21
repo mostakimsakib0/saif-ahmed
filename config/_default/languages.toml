@@ -1,0 +1,7 @@
+[en]
+    languageName = "English"
+    title        = "Hugo Theme Stack"
+    weight       = 1
+
+    [en.params.sidebar]
+        subtitle = "Card-style Hugo theme designed for bloggers"

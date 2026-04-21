@@ -63,16 +63,13 @@ https://yourusername.github.io/admin/
    ```yml
    base_url: https://your-auth-proxy.herokuapp.com
    auth_endpoint: /auth
-   ```
-
+   ### Features
 ### Features
-
-- Write posts in English and Bangla
-- Rich Markdown editor
+- Write posts in English
+- Rich Markdown editor with preview
 - Upload and manage images
 - Auto-commits to your GitHub repository
 - Publish/unpublish posts
-
 ## Notes
 
 - Theme is included as a Git submodule at `themes/hugo-theme-stack`.
